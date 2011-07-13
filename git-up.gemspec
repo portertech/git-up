@@ -5,7 +5,7 @@ $:.unshift lib unless $:.include?(lib)
 require 'git-up/version'
 
 Gem::Specification.new do |s|
-  s.name        = "git-up"
+  s.name        = "git-up-portertech"
   s.version     = GitUp::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Aanand Prasad", "Elliot Crosby-McCullough", "Adrian Irving-Beer", "Joshua Wehner"]
